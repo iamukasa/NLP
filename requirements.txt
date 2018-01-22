@@ -1,0 +1,8 @@
+matplotlib==2.1.2
+nltk==3.2.4
+numpy==1.13.0
+scikit-learn==0.18.2
+scipy==0.19.1
+tensorflow==1.2.0
+tweepy==3.5.0
+--extra-index-url=https://packagecloud.io/github/git-lfs/pypi/simple
